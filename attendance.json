@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "absent_date": "null",
+        "eligbility": "Pass"
+    },
+    {
+        "id": 2,
+        "absent_date": "15-10-2020",
+        "eligbility": "Pass"
+    },
+    {
+        "id": 3,
+        "absent_date": "17-10-2020",
+        "eligbility": "Pass"
+    },
+    {
+        "id": 4,
+        "absent_date": "22-10-2020",
+        "eligbility": "Pass"
+    },
+    {
+        "id": 5,
+        "absent_date": "null",
+        "eligbility": "Pass"
+    }
+]

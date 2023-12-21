@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "topic": "input/output",
+    "problems-solved": 300
+  },
+  {
+    "id": 2,
+    "username": "Array",
+    "problems-solved": 220
+  },
+  {
+    "id": 3,
+    "username": "basic",
+    "problems-solved": 250
+  },
+  {
+    "id": 4,
+    "username": "loops",
+    "problems-solved": 150
+  },
+  {
+    "id": 5,
+    "username": "Strings",
+    "problems-solved": 200
+  }
+]
